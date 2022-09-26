@@ -1,7 +1,7 @@
 # Zixuan Chen
 ## Math-CS Major
 ### Moba enthusiast
-I'm a third year Math-CS student who is passionate in **Coding**, **Basketball** as well as **moba-games***(especially DOTA2!)*  **Enter**
+I'm a third year Math-CS student who is passionate in **Coding**, **Basketball** as well as **moba-games** *(especially DOTA2!)* \
 I also have a cat named pekaboo:
 !(diangun.JPG)
 [More picture but using relative link](diangun2.HEIC)
