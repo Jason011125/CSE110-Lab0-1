@@ -3,7 +3,7 @@
 ### Moba enthusiast
 I'm a third year Math-CS student who is passionate in **Coding**, **Basketball** as well as **moba-games** *(especially DOTA2!)* \
 I also have a cat named pekaboo:\
-! (https://drive.google.com/file/d/1GwZY307w4ozc5coiYVzccTw3swok0Qrh/view?usp=sharing) \
+![](https://drive.google.com/file/d/1GwZY307w4ozc5coiYVzccTw3swok0Qrh/view?usp=sharing)\
 [More picture but using relative link](diangun2.HEIC)\
 List of CS course taken:\
 1.lower
