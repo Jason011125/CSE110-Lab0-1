@@ -6,22 +6,29 @@ I also have a cat named pekaboo:\
 ![](diangun.JPG)\
 [More picture but using relative link](diangun2.HEIC)\
 List of CS course taken:\
-1.lower
-    -CSE 8A
-    -CSE 8B
-    -CSE 12
-    -CSE 15L
-    -CSE 30
-    -CSE 20
-2.upper
-    -CSE 100
-    -CSE 105
-    -CSE 140
-    -CSE 140L
-    -CSE 101(current quarter)
-    -CSE 110(current quarter)
-    -CSE 142(current quarter)
-    -CSE 142L(current quarter)
+<ol>
+<li>lower</li>
+    <ul>
+    <li>CSE 8A</li>
+    <li>CSE 8B</li>
+    <li>CSE 12</li>
+    <li>CSE 15L</li>
+    <li>CSE 30</li>
+    <li>CSE 20</li>
+    </ul>
+<li>upper</li>
+    <ul>
+    <li>CSE 100</li>
+    <li>CSE 105</li>
+    <li>CSE 140</li>
+    <li>CSE 140L</li>
+    <li>CSE 101(current)</li>
+    <li>CSE 110(current)</li>
+    <li>CSE 142(current)</li>
+    <li>CSE 142L(current)</li>
+    </ul>
+</ol>
+
 ##Favorite quote
 >Fortune favors the bold
 Some of the git commands that I have practiced in order to complete this lab:
@@ -32,7 +39,7 @@ git push
 git branch
 ```
 
-Personal favourite website:[google](google.com),[LOL](https://www.leagueoflegends.com/en-us/)
+Personal favourite website:[google](google.com),[LOL](https://www.leagueoflegends.com/en-us/)\
 Goal of the year:
 - [x] dunk in a game
 - [ ] complete a coding project in CSE 110
