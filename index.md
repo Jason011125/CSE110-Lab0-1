@@ -1,6 +1,7 @@
 # Zixuan Chen
 ## Math-CS Major
 ### Moba enthusiast
+#### Important facts about me: ###
 I'm a third year Math-CS student who is passionate in **Coding**, **Basketball** as well as **moba-games** *(especially DOTA2!)* \
 I also have a cat named pekaboo:\
 ![](diangun.JPG)\
@@ -29,7 +30,7 @@ List of CS course taken:\
     </ul>
 </ol>
 
-##Favorite quote
+## Favorite quote
 >Fortune favors the bold
 Some of the git commands that I have practiced in order to complete this lab:
 ```
